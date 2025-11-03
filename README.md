@@ -15,7 +15,7 @@ The goal was to predict the natural logarithm of a used car's price using only a
 
 The competition was judged on **Mean Squared Error (MSE)** on the final hold-out test set.
 
-* **My Best Validation MSE:** 0.0108
-* **My Best Validation R-squared:** 0.930
+* **My Best Validation MSE:** 0.011
+* **My Best Validation R-squared:** 0.9276
 
 * **Final Leaderboard R-squared:** 0.9272
